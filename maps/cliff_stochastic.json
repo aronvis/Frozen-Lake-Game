@@ -1,0 +1,11 @@
+{
+  "name": "cliff",
+  "grid": "F,F,F,F\nS,F,F,G\nH,H,H,H",
+  "reward": {
+    "S": 0,
+    "F": 0,
+    "G": 1,
+    "H": -100
+  },
+  "noise": 0.2
+}

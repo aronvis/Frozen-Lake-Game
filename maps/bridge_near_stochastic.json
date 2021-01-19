@@ -1,0 +1,12 @@
+{
+  "name": "bridge_near_stochastic",
+  "grid": "H,H,H,H\nG,S,F,R\nH,H,H,H",
+  "reward": {
+    "S": 0,
+    "F": 0,
+    "G": 1,
+    "R": 100,
+    "H": -100
+  },
+  "noise": 0.2
+}
